@@ -1,0 +1,3 @@
+﻿  GeneticAlgorithm3.0.cpp
+C:\Users\oleg\source\repos\GeneticAlgorithm3.0\GeneticAlgorithm3.0\GeneticAlgorithm3.0.cpp(113,33): warning C4244:  +=: преобразование "double" в "int", возможна потеря данных
+  GeneticAlgorithm3.0.vcxproj -> C:\Users\oleg\source\repos\GeneticAlgorithm3.0\Debug\GeneticAlgorithm3.0.exe
